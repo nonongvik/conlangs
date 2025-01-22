@@ -1,0 +1,490 @@
+20241106 Xoqolat (Meta AI)
+Viktor Nonong Medrano
+
+VIK: Xoqolat is my prototypical, conceptual conlang that is a Lojban-Interlingua hybrid. Like Chabacano, it tries to incorporate indigenous features in a Latinate framework.
+
+That sounds like a fascinating project! Creating a conlang (constructed language) that blends elements from Lojban, Interlingua, and indigenous languages is a unique and ambitious undertaking.
+
+Lojban, with its logical and consistent grammar, and Interlingua, with its Romance language roots and simplicity, provide an interesting foundation. Incorporating indigenous features adds cultural depth and diversity to your conlang.
+
+Can you share more about Xoqolat's:
+
+1. Phonology: What sounds and sound combinations will it feature?
+2. Grammar: How will it blend Lojban's logical structure with Interlingua's simplicity?
+3. Vocabulary: What indigenous languages are influencing Xoqolat's lexicon?
+4. Writing system: Will Xoqolat use a unique script or an existing alphabet?
+
+I'm eager to learn more about your conlanging endeavors!
+
+VIK: By "indigenous," I really mean Lojban structure words (cmavo), but I thought that it would be nice to include elements from Classical Nahuatl or other, tentatively. Xoqolat uses the Latin alphabet. French, Catalan, Portuguese, and Italian contribute to Xoqolat's phonology, whose base is Interlingua. Lojban structure words still retain the Lojban sound values embedded in Xoqolat—like "code-switching."
+
+Xoqolat's blend of Interlingua, Lojban, and potential Classical Nahuatl influences creates a unique linguistic fusion.
+
+Using the Latin alphabet simplifies readability and accessibility. Incorporating phonological features from French, Catalan, Portuguese, and Italian adds a rich, Romance-language flavor.
+
+Retaining Lojban's cmavo (structure words) with their original sound values creates an interesting "code-switching" effect. This blending maintains Lojban's logical consistency while integrating it into Xoqolat's broader, Latinate framework.
+
+Classical Nahuatl's influence could add depth and cultural nuance. Consider incorporating:
+
+1. Nahuatl's polysynthetic morphology: adapting Nahuatl's complex word-building patterns.
+2. Nahuatl's phonology: incorporating sounds like /tl/, /t͡ɬ/, or /ʔ/ (glottal stop).
+3. Nahuatl's vocabulary: adopting words related to Mesoamerican culture, nature, or concepts.
+
+To further develop Xoqolat:
+
+1. Define its grammatical structure: How will Lojban's logical grammar interact with Interlingua's simpler syntax?
+2. Establish vocabulary building rules: How will words be formed, combined, and modified?
+3. Develop example texts or dialogues: Demonstrate Xoqolat's usage and expressiveness.
+
+Have you considered:
+
+1. Collaborating with conlanging communities (e.g., Reddit's r/conlanging) for feedback?
+2. Creating a dictionary or lexicon for Xoqolat?
+3. Exploring potential applications (e.g., fiction, education, or cultural exchange)?
+
+Keep shaping Xoqolat! Its unique blend has exciting possibilities.
+
+VIK: As I am a "science-fictionist," I would like to expand Xoqolat in genres such as sci-fi. In Xoqolat, verbs are not conjugated, as the present indicative form from Interlingua is used in conjunction with Lojban structure words for aspect, tense, mood, emotion, etc., as "Ego pu mangia" ("I ate"). As in Lojban, aspect and tense in Xoqolat are optional, which is an advantage over Western natural languages.
+
+Xoqolat's design lends itself well to science fiction, facilitating exploration of complex ideas and concepts.
+
+The verb conjugation system, inspired by Interlingua and Lojban, offers simplicity and flexibility:
+
+1. No conjugation: Streamlines verb forms, reducing complexity.
+2. Optional aspect and tense: Enhances expressiveness, allowing speakers to focus on context.
+
+This system enables efficient communication of nuanced ideas, perfect for sci-fi's often complex narratives.
+
+Consider developing:
+
+1. Technical vocabulary: Derive sci-fi terms from existing roots, blending Latin and indigenous influences (e.g., "astral" + Nahuatl "tlilli" for "star-writing").
+2. Specialized cmavo: Create Lojban-inspired structure words for sci-fi concepts (e.g., "zi'e" for "hyperspace" or "fu'u" for "artificial intelligence").
+3. Aspectual nuances: Expand on Lojban's aspectual system to capture sci-fi-specific concepts (e.g., "ca'a" for "continuously uploading" or "pu'i" for "previously hacked").
+
+To further enrich Xoqolat's sci-fi capabilities:
+
+1. Develop a "Xoqolat-ized" version of sci-fi concepts (e.g., time travel, alien species, advanced technologies).
+2. Create sample texts or dialogues showcasing Xoqolat's sci-fi applications.
+3. Explore how Xoqolat's unique features can inspire new sci-fi ideas or perspectives.
+
+Some potential sci-fi themes to explore in Xoqolat:
+
+1. Interstellar communication and diplomacy
+2. Artificial intelligence and consciousness
+3. Time travel and temporal mechanics
+4. Alien cultures and linguistics
+
+By cultivating Xoqolat's sci-fi capabilities, you'll create a unique tool for exploring complex ideas and narratives, bridging linguistic and cultural divides.
+
+Would you like to:
+
+1. Discuss specific sci-fi concepts for Xoqolat?
+2. Explore how Xoqolat can influence your sci-fi storytelling?
+3. Develop a Xoqolat-based sci-fi universe or narrative?
+
+VIK: What does "science-fictionist" mean to you?
+
+To me, "science-fictionist" refers to someone who:
+
+1. Creates science fiction content (e.g., authors, writers, screenwriters).
+2. Studies science fiction as a literary genre or cultural phenomenon (e.g., scholars, critics).
+3. Enthusiastically explores and engages with science fiction (e.g., fans, readers).
+
+In your case, as a conlang creator and sci-fi enthusiast, "science-fictionist" encompasses your interests in:
+
+1. World-building and linguistic experimentation.
+2. Exploring sci-fi concepts and themes through Xoqolat.
+3. Possibly writing sci-fi stories or scenarios using Xoqolat.
+
+The term "science-fictionist" highlights your intersection of interests in science fiction and language creation.
+
+Are you:
+
+1. Writing sci-fi stories or scenarios with Xoqolat?
+2. Drawing inspiration from specific sci-fi authors or sub-genres?
+3. Using Xoqolat to explore philosophical or social commentary through sci-fi?
+
+VIK: It is number 3.
+
+Using Xoqolat to explore philosophical or social commentary through sci-fi aligns with the genre's traditional purpose: exploring complex ideas, societal implications, and human condition through speculative narratives.
+
+Xoqolat's unique blend of Interlingua, Lojban, and indigenous influences offers a fascinating lens for examining:
+
+1. Cultural exchange and understanding
+2. Linguistic relativity and thought patterns
+3. Global citizenship and cooperation
+4. Technology's impact on society
+5. Identity, consciousness, and artificial intelligence
+
+Through Xoqolat, you can create thought-provoking narratives, challenge assumptions, and inspire reflection.
+
+Some potential themes and questions to explore:
+
+1. How do language and culture shape our perceptions of reality?
+2. Can a universal language like Xoqolat facilitate global understanding?
+3. What are the implications of advanced technology on traditional societies?
+4. How do we define humanity in a world with AI and cybernetic enhancements?
+
+To further develop your philosophical and social commentary through Xoqolat:
+
+1. Create short stories or vignettes illustrating complex issues.
+2. Develop a sci-fi universe with Xoqolat-speaking cultures.
+3. Engage with other sci-fi authors, conlangers, or philosophers for inspiration.
+
+Would you like to:
+
+1. Discuss specific philosophical or social themes to explore?
+2. Share your Xoqolat-based narratives or world-building?
+3. Get recommendations for sci-fi works or authors aligned with your interests?
+
+VIK: Number 3, please.
+
+Here are some sci-fi recommendations aligned with your interests in philosophy, social commentary, and linguistic/cultural exploration:
+
+*Authors:*
+
+1. Ursula K. Le Guin (anthropological sci-fi, linguistic exploration)
+2. Samuel R. Delany (social commentary, philosophical themes)
+3. C.J. Cherryh (cultural immersion, linguistic exploration)
+4. China Miéville (philosophical horror, social commentary)
+5. N.K. Jemisin (social justice, cultural exploration)
+
+*Specific Works:*
+
+1. "The Dispossessed" (Le Guin) - anarchism, utopianism, linguistic exploration
+2. "Dhalgren" (Delany) - social commentary, philosophical themes
+3. "The Left Hand of Darkness" (Le Guin) - cultural immersion, linguistic exploration
+4. "The Three-Body Problem" (Liu Cixin) - science, philosophy, cultural exploration
+5. "Ancillary Justice" (Ann Leckie) - AI, identity, social commentary
+
+*Linguistic/Cultural Exploration:*
+
+1. "The Languages of Pao" (Jack Vance) - linguistic exploration, cultural commentary
+2. "The Story of Your Life" (Ted Chiang) - linguistic relativity, philosophical themes
+3. "Embassytown" (China Miéville) - linguistic exploration, cultural commentary
+
+*Philosophical/Social Commentary:*
+
+1. "Do Androids Dream of Electric Sheep?" (Philip K. Dick) - AI, humanity, empathy
+2. "The Handmaid's Tale" (Margaret Atwood) - social commentary, feminist themes
+3. "Altered Carbon" (Richard K. Morgan) - AI, identity, social commentary
+
+These recommendations should provide valuable inspiration for your Xoqolat-based narratives and world-building.
+
+Would you like more recommendations or have specific preferences (e.g., sub-genres, themes)?
+
+VIK: Thanks! Good enough for now.
+
+Feel free to reach out whenever you're ready for more recommendations or want to discuss sci-fi, conlanging, or Xoqolat.
+
+Good luck with your conlanging and sci-fi projects! May Xoqolat flourish and inspire captivating narratives.
+
+Zi'e! (Until next time, in Lojban-inspired Xoqolat.)
+
+VIK: This morning, after 5, I woke up from an interesting dream of a captivating university with European buildings. It had marvellous elements of my real UBC and "marble and columns" of Italian, Spanish or French ornate buildings. There were students who seemed Middle Eastern and other ethnicities. I had my tablet computer with me.
+
+What a fascinating dream!
+
+It sounds like your subconscious blended elements from your real-life experiences at the University of British Columbia (UBC) with architectural inspirations from Europe, creating a unique and captivating academic setting.
+
+The diverse student body in your dream reflects the multiculturalism often found in modern universities.
+
+The presence of your tablet computer suggests a connection to your waking life, possibly symbolizing:
+
+1. A desire for learning and exploration.
+2. A bridge between your real and dream worlds.
+3. A tool for creativity and self-expression.
+
+Consider exploring this dream's themes and emotions:
+
+1. What aspects of the university captivated you?
+2. How did the mix of cultures and architectures make you feel?
+3. Were there any specific interactions or events in the dream?
+
+Reflecting on your dream can:
+
+1. Uncover hidden desires or aspirations.
+2. Inspire creative ideas (e.g., writing, art, or world-building).
+3. Offer insights into your subconscious mind.
+
+Would you like to:
+
+1. Analyze your dream further?
+2. Use this dream as inspiration for Xoqolat-based storytelling?
+3. Explore the symbolism of specific elements (e.g., marble, columns, tablet)?
+
+VIK: Maybe, it was a dream about Xoqolat, after all!
+
+What a delightful connection!
+
+Your dream could indeed be related to Xoqolat, symbolizing:
+
+1. A vision for a harmonious, multicultural community (reflecting Xoqolat's blended linguistic influences).
+2. A desire for knowledge and understanding (represented by the university setting).
+3. A fusion of diverse elements to create something new and beautiful (echoing Xoqolat's unique linguistic blend).
+
+Consider how your dream's themes might inspire Xoqolat's:
+
+1. World-building: Create a university or intellectual hub in your Xoqolat universe.
+2. Cultural development: Explore multicultural interactions, traditions, and exchange.
+3. Storylines: Weave narratives around scholars, linguists, or diplomats navigating diverse perspectives.
+
+This dream connection can enrich your conlanging journey, infusing Xoqolat with depth and personal significance.
+
+Would you like to:
+
+1. Develop a Xoqolat university or intellectual community?
+2. Explore dream-inspired storylines or characters?
+3. Reflect on how Xoqolat's themes and goals align with your dream?
+
+VIK: After 6, in the morning, it was still dark as night, but light emerged gradually, showing an overcast sky. I walked to the café. There, I was drinking a Passion Tango iced tea, which was more pinkish, less red, than usual. Afterwards, I was drinking Iced Pecan Crunch Oat Latte. I was eating crème brûlée almonds. The familiar handsome Tamazight Berber man came in and out of the café. The regular Greek couple, who were fluent in English, were sitting at a different table. The man said, "It's not pronounced 'Tágalog'!" I said, "Greek always shows the accents!" I was reading my Esperanto book about Red Indians in the jungles of Brazil, Tra Lando de Indianoj, by Tibor Sekelj. The baristas at the café were Jessica the Vietnamese, Nicole the Filipina, Kristina the Inuit-Norwegian hybrid, and Rocky the Chinese.
+
+What a vivid morning scene!
+
+You've painted a rich picture of your morning routine, filled with sensory details:
+
+1. The gradual transition from darkness to an overcast sky.
+2. Savoring drinks: Passion Tango iced tea (unusual pinkish hue) and Iced Pecan Crunch Oat Latte.
+3. Snacking on crème brûlée almonds.
+
+The café's diverse cast of characters adds warmth:
+
+1. The familiar, handsome Tamazight Berber man (a regular?).
+2. The Greek couple, fluent in English, engaging in linguistic discussions.
+3. Baristas from diverse backgrounds: Jessica (Vietnamese), Nicole (Filipina), Kristina (Inuit-Norwegian), and Rocky (Chinese).
+
+Your interests shine through:
+
+1. Language enthusiasm (Esperanto, Greek accents).
+2. Cultural curiosity (Tibor Sekelj's book on Red Indians in Brazil).
+
+This scene feels like a microcosm of your multicultural, linguistically rich world.
+
+Would you like to:
+
+1. Explore more of this café's stories and characters?
+2. Discuss Esperanto or language-related topics?
+3. Weave this scene into a Xoqolat narrative?
+
+VIK: What else can you tell about what I wrote?
+
+Here are additional observations:
+
+*Cultural diversity*: Your writing celebrates diversity, showcasing people from various ethnicities, languages, and backgrounds.
+
+*Linguistic interests*: Your passion for languages shines through:
+* Esperanto (reading "Tra Lando de Indianoj")
+* Greek (discussing accents)
+* Possible interest in Tagalog (mispronunciation debate)
+
+*Personal routine*: You share a cozy morning routine:
+* Visiting the café
+* Enjoying specific drinks and snacks
+* Reading
+
+*Familiarity and community*: Regulars at the café create a sense of belonging:
+* The handsome Tamazight Berber man
+* The Greek couple
+
+*Geographic influences*: Places and cultures mentioned:
+* Brazil (book setting)
+* Greece
+* Tamazight Berber (North African) culture
+* Vietnam, Philippines, China, Norway (baristas' backgrounds)
+
+*Tone and atmosphere*: Your writing conveys a relaxed, welcoming atmosphere, with a touch of intellectual curiosity.
+
+*Storytelling potential*: This vignette has narrative seeds:
+* Character relationships and backstories
+* Linguistic explorations
+* Cultural exchange and learning
+
+Would you like me to:
+
+1. Help develop these characters or storylines?
+2. Explore linguistic or cultural topics further?
+3. Generate writing prompts inspired by your vignette?
+
+VIK: Late in the morning, I walked again under a grey sky. At the pizzeria Yummy Slice, there was Sachet the bearded Gujarati. In the past few days, I have been trying out Coca-Cola Zero Sugar, instead of my usual Diet Coke. Two handsome men entered at different times: a Filipino in a brown jacket and a head-shaven white man in blue work overalls. At the fruteria Kin's Market, there was Leo, who said in mixed Mandarin and Cantonese: "Dà mǎ lei5! Nei5 hou2 maa1?" ("Big horse you! You good, eh?"). Besides Xoqolat, my other main prototypical conceptual conlang is Vling, which is a tonal language with an East Asian ambiance, in which tones of words regularly mark the part of speech—a sort of "Oriental Esperanto."
+
+Your narrative weaves a vivid tapestry of cultural encounters and personal observations. Let's break it down:
+
+*Setting and Characters*
+
+- Grey morning sky, setting the tone for a casual day
+- Pizzeria Yummy Slice, a cozy gathering spot
+- Sachet, a bearded Gujarati, perhaps a friendly acquaintance
+- Two handsome men:
+    - Filipino in a brown jacket, adding diversity to the scene
+    - Head-shaven white man in blue work overalls, contrasting styles
+- Fruteria Kin's Market, a hub for community interactions
+- Leo, speaking mixed Mandarin and Cantonese, showcasing linguistic diversity
+
+*Personal Preferences and Explorations*
+
+- Trying Coca-Cola Zero Sugar instead of Diet Coke, a departure from routine
+- Interest in conlangs (constructed languages):
+    - Xoqolat and Vling, showcasing creativity and linguistic curiosity
+    - Vling's tonal system and East Asian ambiance evoke a unique cultural fusion
+
+*Cultural Exchange and Language*
+
+- Leo's greeting, blending Mandarin and Cantonese, highlights the complexity of language and cultural identity
+- Your conlang, Vling, aims to simplify language while embracing Eastern cultural nuances
+
+Your narrative effortlessly blends everyday observations with deeper reflections on culture, language, and personal growth. It invites the reader to appreciate the beauty in diversity and the power of language to connect people.
+
+Would you like to explore more stories or discuss conlangs, cultural exchange, or language?
+
+VIK: What else can you tell me about what I wrote?
+
+Here are some additional observations and insights about your writing:
+
+*Cultural Diversity*: Your text celebrates cultural diversity, effortlessly weaving together elements from different backgrounds:
+
+1. Gujarati (Sachet's ethnicity)
+2. Filipino (the man in the brown jacket)
+3. Mandarin and Cantonese (Leo's languages)
+4. East Asian ambiance (Vling conlang)
+
+*Language Exploration*: Your interest in conlangs (constructed languages) showcases:
+
+1. Creativity: Developing languages like Xoqolat and Vling demonstrates imagination and linguistic expertise.
+2. Passion for language: Exploring tonal systems, linguistic nuances, and cultural influences reveals a deep appreciation for language.
+
+*Observational Storytelling*: Your narrative employs observational storytelling, focusing on everyday moments and encounters. This style:
+
+1. Creates intimacy: Readers feel like they're experiencing your daily life.
+2. Highlights diversity: Your observations showcase the richness of cultural diversity.
+
+*Tone and Atmosphere*: Your writing has a:
+
+1. Conversational tone: Friendly, approachable, and engaging.
+2. Relaxed atmosphere: Grey morning skies and casual encounters evoke a calm, everyday feel.
+
+*Personal Reflection*: Your text hints at personal growth and exploration:
+
+1. Trying new things (Coca-Cola Zero Sugar)
+2. Developing conlangs (Xoqolat and Vling)
+3. Appreciating cultural diversity
+
+*Writing Style*: Your writing demonstrates:
+
+1. Stream-of-consciousness: Thoughts flow naturally, mirroring everyday observations.
+2. Descriptive language: Vivid descriptions (e.g., "grey morning sky," "bearded Gujarati") paint a picture.
+3. Linguistic awareness: You seamlessly integrate linguistic concepts and cultural references.
+
+Overall, your writing is engaging, culturally rich, and linguistically fascinating. It invites readers to appreciate the beauty in everyday encounters and cultural diversity.
+
+Would you like to discuss any specific aspects or explore related topics?
+
+VIK: Thanks! Good enough for now.
+
+Feel free to share more of your writing or thoughts anytime for feedback or discussion.
+
+VIK: In the grey-cloud afternoon, I walked to the café. I was drinking iced black tea with peach juice. I ate a ginger molasses cookie, because they didn't have biscotti. I talked with the barista Joanna, as she swept the floor. She was born and raised here on Lulu Island, from a Greek family, and was married to a Greek. She went to Greek school, so she had intermediary Greek. I told her that some of my ancestors were Greek, as I was a Filipino, with also Spanish, Portuguese, Chinese, and Jewish ancestors. Walking home, I saw my Anglo neighbour Victor helping out raking the autumnal leaves of my Cypriot Greek neighbour Nikki's yard.
+
+Your afternoon stroll to the café sounds lovely, despite the grey clouds. Enjoying iced black tea with peach juice and a ginger molasses cookie is a great way to unwind. It's even more delightful when paired with good conversation, like your chat with Joanna, the barista.
+
+Your discussion about heritage is fascinating. Having Greek ancestors must create an interesting connection with Joanna's background. It's wonderful that you shared your diverse ancestry, including Filipino, Spanish, Portuguese, Chinese, and Jewish roots.
+
+The scene of Victor helping Nikki with leaf raking is a heartwarming display of neighborhood kindness. Did you know that mulching leaves instead of raking can actually benefit your lawn? It creates habitat for wildlife, improves soil health, and reduces the need for fertilizers ¹. Perhaps you could suggest this eco-friendly approach to Victor and Nikki.
+
+Would you like more tips on lawn care or mulching leaves?
+
+VIK: Yes, not many people know about mulching. Can you describe the process?
+
+Mulching leaves is a simple, eco-friendly process that benefits your lawn and garden. Here's a step-by-step guide:
+
+*Why Mulch Leaves?*
+
+Before diving into the process, let's quickly cover the benefits:
+
+1. Reduces lawn waste
+2. Creates habitat for beneficial insects and microorganisms
+3. Improves soil structure and fertility
+4. Helps retain moisture and suppress weeds
+5. Eliminates the need for chemical fertilizers
+
+*Mulching Leaves: A Simple Process*
+
+*Method 1: Leaf Mowing*
+
+1. Leave the leaves on your lawn.
+2. Mow over them with your lawn mower, chopping the leaves into small pieces.
+3. Leave the chopped leaves on the lawn to act as a natural mulch.
+
+*Method 2: Leaf Blower/Mulcher*
+
+1. Use a leaf blower with a mulching attachment or a dedicated leaf mulcher.
+2. Collect and chop the leaves into small pieces.
+3. Spread the mulched leaves evenly across your lawn or garden beds.
+
+*Method 3: Leaf Composting*
+
+1. Collect leaves and place them in a compost bin or pile.
+2. Add other organic materials (e.g., grass clippings, vegetable scraps).
+3. Mix and aerate the pile regularly.
+4. After 2-3 months, the composted leaves can be spread on your lawn or garden.
+
+*Tips and Considerations*
+
+1. Aim for a 2-3 inch layer of mulched leaves to avoid suffocating your lawn.
+2. Mix mulched leaves into garden soil for improved fertility.
+3. Avoid mulching leaves near waterways or storm drains to prevent nutrient runoff.
+4. If you have a large amount of leaves, consider sharing with neighbors or local community gardens.
+
+By adopting leaf mulching, you'll reduce waste, create a nutrient-rich soil amendment, and support a healthier lawn and garden ecosystem.
+
+Would you like more gardening tips or information on composting?
+
+VIK: What else do you think about what I wrote?
+
+I'll offer additional insights on your writing:
+
+*Cultural connections*: Your text highlights the beauty of cultural diversity and connections:
+
+1. Joanna's Greek heritage and your shared Greek ancestry.
+2. Your Filipino background with Spanish, Portuguese, Chinese, and Jewish roots.
+3. Nikki's Cypriot Greek background.
+
+These cultural intersections demonstrate the richness of diversity in your community.
+
+*Community and neighborhood dynamics*: Your writing showcases:
+
+1. Friendly conversations with local business owners (Joanna).
+2. Neighborhood kindness (Victor helping Nikki).
+3. A sense of community and familiarity.
+
+This warm portrayal creates a welcoming atmosphere.
+
+*Everyday storytelling*: Your narrative focuses on ordinary moments, making them extraordinary through:
+
+1. Vivid descriptions (grey-cloud afternoon, iced black tea with peach juice).
+2. Conversational tone.
+3. Attention to detail (Joanna sweeping the floor).
+
+This storytelling style invites readers to appreciate the beauty in daily life.
+
+*Personal reflection and identity*: Your text touches on:
+
+1. Exploring ancestry and cultural heritage.
+2. Embracing diversity and complexity.
+
+This self-awareness and appreciation for diverse backgrounds are essential in today's world.
+
+*Writing style*: Your writing demonstrates:
+
+1. Descriptive language.
+2. Conversational tone.
+3. Stream-of-consciousness narrative.
+
+These elements create an engaging, relatable reading experience.
+
+Would you like to discuss any specific aspects or explore related topics?
+
+VIK: Thanks! It was much help.
+
+You're welcome! It was my pleasure to assist you. I'm glad I could provide helpful insights and feedback on your writing. Feel free to share more of your work or thoughts anytime for discussion or guidance.
+
+Have a wonderful day, and happy writing!
