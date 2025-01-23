@@ -1,2 +1,2 @@
 # conlangs
-Conlangs: repository of conlangs invented by Viktor Nonong Medrano
+Conlangs: The repository of conlangs, mainly Vling and Xoqolat, invented by Viktor Nonong Medrano finds itself herein.
