@@ -1,0 +1,305 @@
+Examine Vling Conlang
+Viktor Nonong Medrano
+
+VIK: 2026-07-25. I-analyze mo ang conlang na ito.
+
+CHATGPT:
+
+Nakakawili ang Vling bilang isang maagang conlang project na malinaw na may layuning pagsamahin ang ilang katangian ng mga wikang Silangang Asya at ilang engineered languages. Ayon sa introduksiyon, nais nitong magkaroon ng “Oriental flavour” na may impluwensiya mula sa Thai, Vietnamese, Cantonese, Esperanto, Lojban, Mandarin, at Japanese. Vling.pdf
+
+Buod ng Typology
+
+Sa pananaw ng linguistic typology, ang Vling ay:
+
+	•	Analytic / isolating (kaunti ang inflection)
+	•	Tonal
+	•	Head-marking sa pamamagitan ng particles
+	•	Labis na regular
+	•	Bahagyang engineered
+	•	Malakas ang semantic transparency
+
+Hindi ito mukhang naturalistic conlang (katulad ng Sindarin o Dothraki), kundi mas malapit sa isang auxlang-engineered hybrid.
+
+⸻
+
+1. Pinaka-orihinal na katangian: Tone = Part of Speech
+
+Ang pinakamahalagang ideya ng Vling ay ang pagtutugma ng tono at bahagi ng pananalita:
+
+Tono	Kategorya
+1	particles/prepositions
+2	nouns
+3	verbs
+4	adverbs
+5	adjectives/numerals
+
+Halimbawa:
+
+	•	tsuet² = beauty
+	•	tsuet³ = to be beautiful
+	•	tsuet⁴ = beautifully
+	•	tsuet⁵ = beautiful
+
+Vling.pdf
+
+Ito ang isa sa mga pinakainteresanteng bahagi ng disenyo.
+
+Mga kalamangan
+
+	•	Napakataas ng regularity.
+	•	Maliit ang kailangang memorization.
+	•	Madaling bumuo ng bagong salita.
+
+Mga kahinaan
+
+Sa totoong wika, bihira ang ganitong ganap na sistematikong ugnayan.
+
+Kapag nawala ang tono sa pagsasalita:
+
+	•	tsuet²
+	•	tsuet³
+	•	tsuet⁴
+	•	tsuet⁵
+
+ay halos pareho na lamang.
+
+Kaya napakalaki ng functional load ng tono.
+
+⸻
+
+2. Phonology
+
+Ang imbentaryo ay may:
+
+Vowels
+
+a e i o u y(ə)
+
+Consonants
+
+p t k b d g
+f s x(ʃ) h
+v z j(ʒ)
+
+ts tx dz dj
+
+l m n ng
+
+at mga cluster:
+
+pl tl kl fl
+bl dl gl vl
+
+Vling.pdf
+
+Obserbasyon
+
+Makikita ang impluwensiya ng:
+
+	•	Mandarin
+	•	Cantonese
+	•	Vietnamese
+	•	Thai
+
+sa pagkakaroon ng tono.
+
+Makikita naman ang impluwensiya ng Esperanto sa:
+
+	•	simpleng orthography
+	•	regularidad
+	•	maraming CV at CVC syllables
+
+⸻
+
+3. Malayang Word Order
+
+SVO, SOV, VSO, VOS, OVS, OSV ay lahat posible dahil gumagamit ng mga marker:
+
+	•	a¹ = subject
+	•	o¹ = object
+
+Vling.pdf
+
+Halimbawa:
+
+a1 ob2 mia3 o1 txain2
+
+at
+
+o1 txain2 mia3 a1 ob2
+
+parehong nangangahulugang:
+
+The cat eats the fish.
+
+Ito ay kahawig ng:
+
+	•	Lojban
+	•	Latin
+	•	Classical Nahuatl (sa ilang antas)
+	•	Japanese particles
+
+⸻
+
+4. Malakas ang Impluwensiya ng Lojban
+
+May ilang konseptong halos kahawig ng Lojban:
+
+Explicit grammatical markers
+
+	•	subject marker
+	•	object marker
+	•	complement marker
+	•	topic marker
+
+Free word order
+
+Relative clause markers
+
+Topicalization
+
+Napakalinaw na syntax
+
+Vling.pdf
+
+Gayunman, mas madaling basahin ang Vling kaysa Lojban dahil mas tradisyonal ang estruktura nito.
+
+⸻
+
+5. Verbal System
+
+Napakalawak ng aspect system.
+
+May:
+
+	•	progressive
+	•	perfective
+	•	habitual
+	•	iterative
+	•	frequentative
+	•	resumptive
+	•	inceptive
+	•	cessative
+	•	experiential
+	•	distributive
+	•	intentional
+	•	accidental
+
+at marami pang iba. Vling.pdf
+
+Ito ay mas mayaman pa kaysa sa karamihan ng natural na wika.
+
+Ang pakiramdam nito ay kombinasyon ng:
+
+	•	Mandarin aspect particles
+	•	Slavic aspect distinctions
+	•	Lojban event structure
+
+⸻
+
+6. Spatial Tense
+
+Isa sa mga pinaka-kakaibang ideya.
+
+Hindi lamang temporal tense:
+
+	•	past
+	•	present
+	•	future
+
+kundi mayroon ding:
+
+	•	here
+	•	there
+	•	yonder
+	•	short distance
+	•	medium distance
+	•	long distance
+
+Vling.pdf
+
+Ito ay bihira sa mga natural na wika.
+
+Sa linguistic theory, maituturing itong uri ng deictic verbal marking.
+
+⸻
+
+7. Compound Word Strategy
+
+Lahat ng naunang elemento ng compound ay nagiging tone 1, at ang huling elemento lamang ang nagdadala ng bahagi ng pananalita ng buong salita. Vling.pdf
+
+Halimbawa:
+
+saim1-tseg1-glie1-txiog5
+
+“antique-book-lover” bilang adjective.
+
+Napakalinis ng sistemang ito.
+
+⸻
+
+8. Panghalip
+
+May pagkakaiba sa:
+
+Inclusive / Exclusive We
+
+	•	gleib² = we (kasama ang kausap)
+	•	dzuam² = we (hindi kasama ang kausap)
+
+Biological / Non-biological Third Person
+
+	•	mion² = he/she
+	•	pot² = it
+
+Vling.pdf
+
+Ito ay karaniwan sa maraming Austronesian at Indigenous languages.
+
+⸻
+
+9. Numerals
+
+Napakaregular.
+
+Halimbawa:
+
+	•	20 = two-ten
+	•	40 = four-ten
+	•	34 = three-ten-four
+
+Vling.pdf
+
+Maliwanag ang impluwensiya ng:
+
+	•	Mandarin
+	•	Japanese
+	•	Korean
+	•	Vietnamese
+
+kung saan compositional ang mga bilang.
+
+⸻
+
+Pangkalahatang Pagsusuri
+
+Kung bibigyan ko ng typological na paglalarawan:
+
+“A tonal analytic engineered language combining Austroasiatic/Sinitic flavour, Esperanto-style regularity, and Lojban-inspired explicit grammar.”
+
+Pinakamalalakas na ideya
+
+	1.	Tone = part of speech.
+	2.	Free word order na may malinaw na markers.
+	3.	Spatial tense.
+	4.	Napakayamang aspect system.
+	5.	Napakaregular na compounding.
+
+Pinakamalalaking hamon
+
+	1.	Napakalaki ng responsibilidad ng tono.
+	2.	Masyadong malawak ang aspect inventory para sa pang-araw-araw na gamit.
+	3.	Maaaring maging masyadong “engineered” at kulang sa natural na historical irregularities.
+	4.	Ang limang tono ay kailangang mapanatiling eksakto upang maiwasan ang kalituhan.
+
+Bilang conlanger, masasabi kong ang Vling ay may malinaw na impluwensiya ng mga ideyang popular noong unang bahagi ng dekada 2000 sa online conlanging: regularity, logic, semantic transparency, at malayang sintaksis, ngunit may sarili itong natatanging ambag sa pamamagitan ng tone-based word-class system, na siyang pinaka-orihinal na bahagi ng buong disenyo.
